@@ -1,5 +1,5 @@
-# Rubén Pérez Herrando
-# Full Stack Developer & Aerospace Engineering
+# Full Stack Developer && 
+## Aerospace Engineering 
 
 <h1 align="center">
 Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50" title="Hello">
