@@ -24,7 +24,8 @@
 <hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=9shuck&show_icons=true&locale=en&layout=compact" alt="9shuck" /></p>
-
+<br>
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=9shuck&show_icons=true&locale=en" alt="9shuck" /></p>
 
 
