@@ -7,7 +7,7 @@
 
 - 🧠  I’m looking for learning **more and more**
 
-- 🗣 Ask me about **🎧music  ⌨️programming 👾videoGames 📡 technology 💬social **
+- 🗣 Ask me about **🎧  music  ⌨️  programming 👾  videoGames 📡 technology 💬   social **
 
 - 📫  How to reach me **rubb.phz@gmail.com**
 <hr>
