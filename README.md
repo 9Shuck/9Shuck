@@ -3,13 +3,13 @@
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=9shuck&label=Profile%20views&color=0e75b6&style=flat" alt="9shuck" /> </p>
 
-- 💻 I’m currently working on [OKAGE](https://github.com/Okage-Company)
+- 💻  I’m currently working on [OKAGE](https://github.com/Okage-Company)
 
-- 🧠 I’m looking for learning **more and more**
+- 🧠  I’m looking for learning **more and more**
 
-- Ask me about **music 🎧 programming ⌨️ videoGames 👾 technology 📡 social 💬**
+- 🗣 Ask me about **music 🎧 programming ⌨️ videoGames 👾 technology 📡 social 💬**
 
-- 📫 How to reach me **rubb.phz@gmail.com**
+- 📫  How to reach me **rubb.phz@gmail.com**
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
