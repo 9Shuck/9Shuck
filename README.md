@@ -1,4 +1,9 @@
-#### Hi there 👋
+# Rubén Pérez Herrando
+# Full Stack Developer & Aerospace Engineering
+
+<h1 align="center">
+Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50" title="Hello">
+</h1>
 
 <!--
 **9Shuck/9Shuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
