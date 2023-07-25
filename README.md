@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rubén! <img height="30" width="30" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/></h1>
-<h3 align="center">Full Stack Developer 💻 Aerospace Engineering 🚀</h3>
+<h3 align="center">SOFTWARE ENGINEER</h3>
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=9shuck&label=Profile%20views&color=0e75b6&style=flat" alt="9shuck" /> </p>
 
