@@ -3,7 +3,7 @@
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=9shuck&label=Profile%20views&color=0e75b6&style=flat" alt="9shuck" /> </p>
 
-- 💻  I’m currently working at The Keen Folks 
+- 💻  I’m currently working at Factorial
 
 - 🧠  I’m looking for learning **more and more**
 
